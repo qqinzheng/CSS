@@ -1,0 +1,16 @@
+body{
+    font-size: 14px;
+}
+
+p{
+    font-size:1em;
+}
+
+#toolbar{
+    background-color:blue;
+    color:white;
+}
+
+#toolbar a{
+    color:inherit;
+}

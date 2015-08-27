@@ -1,0 +1,60 @@
+body{
+    font-family:/*'Lobster'*/sans-serif;
+}
+
+/*h1{*/
+    /*font-family: sans-serif;*/
+/*}*/
+
+ h1{
+     font-weight:900;
+ }
+
+/*span{*/
+    /*font-family: monospace;*/
+/*}*/
+span{
+    font-weight:100;
+}
+/*p{*/
+    /*font-family:cursive;*/
+/*}*/
+
+/*p{*/
+    /*font-size:xx-large;*/
+/*}*/
+
+/*strong,em{*/
+    /*font-size:larger;*/
+/*}*/
+
+.baifenbi{
+    font-size:20px;
+}
+
+/*em{*/
+    /*font-size:200%;*/
+/*}*/
+/*strong{*/
+    /*font-size:200%;*/
+/*}*/
+
+.font-style{
+    font-style: italic;
+}
+
+.font-style em{
+    font-style: oblique;
+}
+
+.font-variant{
+    font-variant: small-caps ;
+}
+
+.font-stretch{
+    font-stretch:extra-expanded;
+}
+
+.font{
+    font:bold italic small-caps 24px/1.2 sans-serif;
+}

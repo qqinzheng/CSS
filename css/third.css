@@ -1,0 +1,14 @@
+h1{
+    font-style:italic;
+    color:gray !important;
+    background: black!important;
+}
+
+.title{
+    color:black;
+    background:silver;
+}
+
+*{
+    /*background: black !important;*/
+}

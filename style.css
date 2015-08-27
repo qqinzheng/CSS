@@ -1,0 +1,37 @@
+ul li{
+	padding: 0;
+	margin: 0;
+}
+div{
+	border: 1px solid #f36
+}
+.content{
+	margin: 0 auto;
+	width: 1002px;
+    
+}
+.header{
+	
+}
+.top-bar{
+   width: 100%;
+   background: #f7f7f7;
+   float: left;
+   font-size: 12px;
+   
+}
+
+#nation_option{
+    float:left;
+}
+#nation_option img{
+   width:36px; 
+   height:18.28px;
+   float: left;
+}
+#id_menu{
+	float: left;
+}
+#id_login{
+	float: left;
+}

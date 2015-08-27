@@ -1,0 +1,48 @@
+/*div{*/
+    /*padding:30px;*/
+    /*background:silver;*/
+/*}*/
+
+/*p{*/
+    /*margin:20px;*/
+    /*padding:0;*/
+    /*background:white;*/
+/*}*/
+
+body{
+    font-size:16px;
+}
+
+.neg{
+    margin-right:10px;
+    margin-left:10px;
+    margin-top:0;
+    margin-bottom:-50px;
+    border:3px solid gray;
+}
+
+.hangneikuang span{
+    border:1px solid black;
+    line-height:1.5em;
+    padding-top:4em;
+    padding-bottom:4em;
+    background:#999;
+    /*margin-left:-2em;*/
+    /*margin-right:-2em;*/
+    /*margin-top:2em;*/
+    /*margin-bottom:2em;*/
+
+}
+
+div#navigation a{
+   display: block;
+}
+
+#rollcall li{
+    display:inline;
+    border-right:1px solid black;
+    padding:0 0.33em;
+}
+#rollcall li:nth-child(1){
+    border-left:1px solid;
+}
